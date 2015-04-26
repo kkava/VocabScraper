@@ -5,7 +5,7 @@
 #   -Case insensitive.
 #   -Split file names from entries with fewer characters than specified are simply truncated
 #   -Following dict.cc format, all spaces in each entry are removed before processing into chunks
-#   -Folders are created in the a/ab/abcd.dict format (where N=2, M=4 here)
+#   -Folders are created in the a/ab/abcd.dict format (where N=2, M=4 here) 
 
 import os, sys, re, shutil
 from translit import transLit
