@@ -2,6 +2,7 @@
 A vocabulary scraper that can be used to build vocabulary lists from German websites. Compound word translation, N-gram assisted word selection.
 
 Installation / use:
+
 1. Download this repository
 
 2. Get dict.cc DE-EN dictionary - you must request it from 
