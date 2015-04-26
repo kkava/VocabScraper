@@ -4,7 +4,7 @@ Dictionary class for managing dictionary chunks
 	-Word lookup
 	-N-gram improvements
 	-Memory managment and cacheing
- 
+  
 */
 
 class Dictionary {
