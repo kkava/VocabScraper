@@ -5,8 +5,7 @@ Installation / use:
 
 1. Download this repository
 
-2. Get dict.cc DE-EN dictionary - you must request it from 
-    http://www1.dict.cc/translation_file_request.php?l=e
+2. Get dict.cc DE-EN dictionary - you must request it from http://www1.dict.cc/translation_file_request.php?l=e
 
 2. Replace the file de-en_dict.cc with the downloaded one (keeping the name "de-en_dict.cc")
 
